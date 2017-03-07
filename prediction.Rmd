@@ -2,9 +2,9 @@
 title: "Practical Machine Learning - Coursera"
 author: "Nishant Kumar"
 date: "8 March 2017"
-output: 
-    html_document:
-    keep_md: true
+output:
+  html_document:
+   keep_md: yes
 ---
 
 
